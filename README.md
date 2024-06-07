@@ -1,3 +1,10 @@
+## Integrantes
+#### RM96731 - Kaik Wulck Bassanelli
+#### RM97582 - Leonardo Silva
+#### RM97019 - Lucas Satoru Shiaku
+#### RM97282 - Pablo Lage Carral
+#### RM97117 - Rafael Vieira Pinto
+
 # 📌 Open Sea App
 
 Open Sea é um aplicativo móvel desenvolvido com React Native e Firebase. Ele permite que os usuários façam solicitações de serviços e visualizem essas solicitações de maneira simples e eficiente. Este aplicativo oferece funcionalidades de autenticação, criação de solicitações e visualização de todas as solicitações feitas por usuários autenticados.
