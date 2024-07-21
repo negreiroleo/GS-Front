@@ -39,7 +39,7 @@ Para executar o projeto, siga estas etapas:
 
 2. Acesse a pasta do projeto no terminal/cmd
 ```bash
-    cd clean-boarding
+    cd opensea
 ```
 
 3.1 Instale as dependências
